@@ -1,0 +1,17 @@
+{
+    "name": "mobimento/mobincubews",
+    "license": "proprietary",
+    "require": {
+        "php": ">=7.2",
+        "webonyx/graphql-php": "^0.11.6"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+    },
+    "config": {
+        "preferred-install": "dist",
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}

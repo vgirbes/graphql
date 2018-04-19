@@ -1,0 +1,11 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDEs
+/.idea
+/.vscode
+
+# Project
+/vendor
+.env
